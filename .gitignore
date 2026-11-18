@@ -221,3 +221,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =====================================================
+# Propio de este proyecto
+# =====================================================
+
+# Instrucciones privadas de Claude
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# Entornos virtuales extra (p. ej. el .venv-1 que creo VS Code)
+.venv*/
+
+# Material del curso (enunciado de Digitech, no publicar)
+*.pdf
+Practica1_prestamos.md
+
+# Apuntes personales de clase
+apuntes/
+2026-11-18_Planteamiento_Del_Proyecto_De_Scoring_Crediticio_Metodologia.md
+
+# Sistema operativo / editor
+Thumbs.db
+desktop.ini
+.DS_Store
